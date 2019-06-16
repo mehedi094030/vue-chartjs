@@ -141,7 +141,7 @@ export default {
     },
     data () {
       return {
-        datacollection: null
+        datacollection: {}
       }
     },
     mounted () {
